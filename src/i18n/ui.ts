@@ -3,9 +3,9 @@ export const defaultLang = 'en' as const;
 export const ui = {
   'en': {
     // Site Metadata
-    'siteMetadata.title': 'Astro Starter Blog',
-    'siteMetadata.headerTitle': 'Astro Starter Blog',   
-    'siteMetadata.description': 'A blog created with Astro and Tailwind.css',
+    'siteMetadata.title': 'Champawadtey',
+    'siteMetadata.headerTitle': 'Tey',   
+    'siteMetadata.description': 'A blog created by Wadtey for ChampaChampei stupid antics',
     'siteMetadata.language': 'en-US',
 
     // Pages
@@ -57,7 +57,7 @@ export const ui = {
     'layouts.postLayout.publishedAt': 'Published at',
     'layouts.postLayout.authors': 'Authors',
     'layouts.postLayout.authorName': 'Name',
-    'layouts.postLayout.authorTwitter': 'Twitter',
+    'layouts.postLayout.authorInstagram': 'Instagram',
     'layouts.postLayout.draftMessage': 'This is a draft. It might be incomplete or have errors.',
     'layouts.postLayout.tableOfContents': 'Table of Contents',
     'layouts.postLayout.tags': 'Tags',
